@@ -1,0 +1,6 @@
+{
+  "name": "Apex Federal - Bank Employee Task Management",
+  "description": "Professional banking task and workflow operations dashboard for bank employees, branch managers, and administrative compliance officers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
